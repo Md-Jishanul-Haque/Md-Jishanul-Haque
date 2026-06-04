@@ -1,9 +1,9 @@
 ‎<div align="center">
-‎  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=MD.JISHANUL%20HAQUE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62"/>
+‎  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F6D5F7&height=200&section=header&text=MD.JISHANUL%20HAQUE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full+Stack%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=51&descAlign=62"/>
 ‎</div>
 ‎
 ‎<div align="center">
-‎  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Jishan;Frontend+Developer+💻;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
+‎  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi+there!+I'm+Jishan;Full+Stack+Developer+💻;MERN+Stack+Developer+🚀;From+Bangladesh+🇧🇩" alt="Typing SVG" />
 ‎</div>
 ‎
 ‎<br/>
